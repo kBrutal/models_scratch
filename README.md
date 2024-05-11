@@ -1,2 +1,15 @@
 # ML models from scratch
-Machine Learning models implemented from scratch in python
+
+Following Machine Learning Algorithms have been implemented from scratch:<br>
+- Logistic Regression
+- Naive Bayes
+- Perceptron Learning Algorithm (PLA)
+- KMeans
+
+## Installation and usage.
+
+This project has 2 dependencies.
+
+- `numpy` for the maths implementation and writing the algorithms
+- `Matplotlib` for the plotting.
+- `Pandas` for loading data.
